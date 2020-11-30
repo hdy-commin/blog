@@ -6,7 +6,7 @@
   <link href="https://hdy-blue.gitee.io/blog/atom.xml" rel="self"/>
   
   <link href="https://hdy-blue.gitee.io/blog/"/>
-  <updated>2020-11-29T15:53:19.209Z</updated>
+  <updated>2020-11-30T16:44:25.653Z</updated>
   <id>https://hdy-blue.gitee.io/blog/</id>
   
   <author>
@@ -17,14 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于cmd连接MySQL问题</title>
+    <link href="https://hdy-blue.gitee.io/blog/2020/12/01/%E5%85%B3%E4%BA%8Ecmd%E8%BF%9E%E6%8E%A5MySQL%E9%97%AE%E9%A2%98/"/>
+    <id>https://hdy-blue.gitee.io/blog/2020/12/01/%E5%85%B3%E4%BA%8Ecmd%E8%BF%9E%E6%8E%A5MySQL%E9%97%AE%E9%A2%98/</id>
+    <published>2020-11-30T16:00:43.733Z</published>
+    <updated>2020-11-30T16:44:25.653Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;该篇主要用于安装MySQL后，使用CMD连接所遇问题&lt;br&gt;前提：&lt;br&gt;成功安装MySQL软件到本地计算机或其他使用集成工具箱内的MySQL(操作同理)&lt;br&gt;本篇介绍使用工具箱（phpStudy)内的MySQL，怎么用cmd进行连接&lt;/p&gt;
+&lt;h2 id=&quot;添加环境变量&quot;&gt;&lt;a href=&quot;#添加环境变量&quot; class=&quot;headerlink&quot; title=&quot;添加环境变量&quot;&gt;&lt;/a&gt;添加环境变量&lt;/h2&gt;&lt;h3 id=&quot;点击phpStudy桌面图标，右键打开文件所在位置&quot;&gt;&lt;a href=&quot;#点击phpStudy桌面图标，右键打开文件所在位置&quot; class=&quot;headerlink&quot; title=&quot;点击phpStudy桌面图标，右键打开文件所在位置&quot;&gt;&lt;/a&gt;点击phpStudy桌面图标，右键打开文件所在位置&lt;/h3&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/13.png&quot; width=&quot;300px&quot;&gt;</summary>
+    
+    
+    
+    <category term="博客" scheme="https://hdy-blue.gitee.io/blog/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="日常问题" scheme="https://hdy-blue.gitee.io/blog/tags/%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>利用picgo+github搭建个人图床</title>
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</id>
     <published>2020-11-29T08:21:36.478Z</published>
-    <updated>2020-11-29T15:53:19.209Z</updated>
+    <updated>2020-11-30T16:45:28.906Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;获取Github里的token&quot;&gt;&lt;a href=&quot;#获取Github里的token&quot; class=&quot;headerlink&quot; title=&quot;获取Github里的token&quot;&gt;&lt;/a&gt;获取Github里的token&lt;/h2&gt;&lt;h3 id=&quot;1-登录Github&quot;&gt;&lt;a href=&quot;#1-登录Github&quot; class=&quot;headerlink&quot; title=&quot;1.登录Github&quot;&gt;&lt;/a&gt;1.登录Github</summary>
+    <summary type="html">&lt;h2 id=&quot;获取Github里的token&quot;&gt;&lt;a href=&quot;#获取Github里的token&quot; class=&quot;headerlink&quot; title=&quot;获取Github里的token&quot;&gt;&lt;/a&gt;获取Github里的token&lt;/h2&gt;&lt;h3 id=&quot;1-登录Github&quot;&gt;&lt;a href=&quot;#1-登录Github&quot; class=&quot;headerlink&quot; title=&quot;1.登录Github&quot;&gt;&lt;/a&gt;1.登录Github&lt;/h3&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/1.png&quot; alt=&quot;&quot; width=&quot;200px&quot;&gt;</summary>
     
     
     
@@ -40,11 +60,13 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/</id>
     <published>2020-11-29T07:16:30.604Z</published>
-    <updated>2020-11-29T15:53:13.313Z</updated>
+    <updated>2020-11-30T16:47:51.455Z</updated>
     
     
     <summary type="html">&lt;p&gt;优化博客小技巧&lt;/p&gt;
-&lt;h2 id=&quot;从GitHub克隆fancybox&quot;&gt;&lt;a href=&quot;#从GitHub克隆fancybox&quot; class=&quot;headerlink&quot; title=&quot;从GitHub克隆fancybox&quot;&gt;&lt;/a&gt;从GitHub克隆fancybox&lt;/h2&gt;&lt;p&gt;打开cmd,进入到个人博客文件夹的themes/next/source/lib</summary>
+&lt;h2 id=&quot;从GitHub克隆fancybox&quot;&gt;&lt;a href=&quot;#从GitHub克隆fancybox&quot; class=&quot;headerlink&quot; title=&quot;从GitHub克隆fancybox&quot;&gt;&lt;/a&gt;从GitHub克隆fancybox&lt;/h2&gt;&lt;p&gt;打开cmd,进入到个人博客文件夹的themes/next/source/lib&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;clone&lt;/span&gt; https://github.com/theme-next/theme-next-fancybox3 fancybox&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;git clone –git克隆命令&lt;br&gt;url –GitHub里的fancybox文件路径&lt;br&gt;fancybox –定义克隆后的文件名&lt;br&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/9.png&quot; width=&quot;300px&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -60,11 +82,11 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/Markdown%E8%AF%AD%E6%B3%95/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/Markdown%E8%AF%AD%E6%B3%95/</id>
     <published>2020-11-29T04:20:09.550Z</published>
-    <updated>2020-11-29T15:53:16.221Z</updated>
+    <updated>2020-11-30T16:48:23.447Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要是 帮助自己随时查阅（利人利己）&lt;/p&gt;
-&lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题</summary>
+&lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h2&gt;&lt;figure class=&quot;highlight markdown&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;# 这是一级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;## 这是二级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;### 这是三级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;#### 这是四级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;##### 这是五级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;section&quot;&gt;###### 这是六级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
