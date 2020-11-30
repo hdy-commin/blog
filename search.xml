@@ -90,43 +90,6 @@
       </tags>
   </entry>
   <entry>
-    <title>利用picgo+github搭建个人图床</title>
-    <url>/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
-    <content><![CDATA[<h2 id="获取Github里的token"><a href="#获取Github里的token" class="headerlink" title="获取Github里的token"></a>获取Github里的token</h2><h3 id="1-登录Github"><a href="#1-登录Github" class="headerlink" title="1.登录Github"></a>1.登录Github<a id="more"></a></h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/1.png" alt="" width="200px">
-
-<h3 id="2-如图所示"><a href="#2-如图所示" class="headerlink" title="2.如图所示"></a>2.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/4.png" alt="" width="300px">
-
-<h3 id="3-如图所示"><a href="#3-如图所示" class="headerlink" title="3.如图所示"></a>3.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/2.png" alt="" width="300px">
-
-<h3 id="4-如图所示"><a href="#4-如图所示" class="headerlink" title="4.如图所示"></a>4.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/5.png" alt="" width="300px">
-
-<h3 id="5-名字随意，图床权限就选repo足够"><a href="#5-名字随意，图床权限就选repo足够" class="headerlink" title="5.名字随意，图床权限就选repo足够"></a>5.名字随意，图床权限就选repo足够</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/6.png" alt="" width="300px">
-
-<h3 id="6-copy下来，或者放记事本"><a href="#6-copy下来，或者放记事本" class="headerlink" title="6.copy下来，或者放记事本"></a>6.copy下来，或者放记事本</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/12.png" alt="" width="300px">
-
-<h2 id="PicGo"><a href="#PicGo" class="headerlink" title="PicGo"></a>PicGo</h2><h3 id="1-安装PicGo"><a href="#1-安装PicGo" class="headerlink" title="1.安装PicGo"></a>1.安装PicGo</h3><p>Github资源:<a href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a></p>
-<p>注意：<em>mac</em> 系统选择 <em>dmg</em> 下载，<em>windwos</em> 选择 <em>.exe</em>系统，如果不是下载安装包，想看源码的话，可以选择 <code>git clone https://github.com/Molunerfinn/PicGo.git</code> 克隆到本地 ，<strong>建议别下最新版会有莫名的bug</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/7.png"  width="300px">
-
-<h3 id="2-安装完成后，运行PicGo"><a href="#2-安装完成后，运行PicGo" class="headerlink" title="2.安装完成后，运行PicGo"></a>2.安装完成后，运行PicGo</h3><p>进行PicGo和GitHub的配置</p>
-<img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/8.png" width="300px">
-注意：仓库名是你自己的GitHub名称，分支我的默认是main,大佬默认的是master，根据你GitHub的名字；token就是之前保存下来的；指定存储路径就是GitHub里的文件夹，不填写就默认根目录；自定义域名是你最后生成的img的链接地址，配置好点击确定，设置为默认图床
-
-<h3 id="3-测试效果"><a href="#3-测试效果" class="headerlink" title="3.测试效果"></a>3.测试效果</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/11.png" width="400px">
-自行上传图片，上传成功会在右下角提示上传成功，成功后可在GitHub的img文件夹和PicGo的相册都能看见
-
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
-<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>参考链接:<br><a href="https://www.jianshu.com/p/9d91355e8418">图床工具的使用–PicGo</a>（简书）<br><a href="https://www.heson10.com/next/posts/18256.html">jsDelivr CDN加速Github仓库图片做博客图床</a>(黑石博客)</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>博客优化</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>fancybox图片预览</title>
     <url>/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/</url>
     <content><![CDATA[<p>优化博客小技巧</p>
@@ -172,6 +135,43 @@
       </categories>
       <tags>
         <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>利用picgo+github搭建个人图床</title>
+    <url>/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
+    <content><![CDATA[<h2 id="获取Github里的token"><a href="#获取Github里的token" class="headerlink" title="获取Github里的token"></a>获取Github里的token</h2><h3 id="1-登录Github"><a href="#1-登录Github" class="headerlink" title="1.登录Github"></a>1.登录Github<a id="more"></a></h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/1.png" alt="" width="200px">
+
+<h3 id="2-如图所示"><a href="#2-如图所示" class="headerlink" title="2.如图所示"></a>2.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/4.png" alt="" width="300px">
+
+<h3 id="3-如图所示"><a href="#3-如图所示" class="headerlink" title="3.如图所示"></a>3.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/2.png" alt="" width="300px">
+
+<h3 id="4-如图所示"><a href="#4-如图所示" class="headerlink" title="4.如图所示"></a>4.如图所示</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/5.png" alt="" width="300px">
+
+<h3 id="5-名字随意，图床权限就选repo足够"><a href="#5-名字随意，图床权限就选repo足够" class="headerlink" title="5.名字随意，图床权限就选repo足够"></a>5.名字随意，图床权限就选repo足够</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/6.png" alt="" width="300px">
+
+<h3 id="6-copy下来，或者放记事本"><a href="#6-copy下来，或者放记事本" class="headerlink" title="6.copy下来，或者放记事本"></a>6.copy下来，或者放记事本</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/12.png" alt="" width="300px">
+
+<h2 id="PicGo"><a href="#PicGo" class="headerlink" title="PicGo"></a>PicGo</h2><h3 id="1-安装PicGo"><a href="#1-安装PicGo" class="headerlink" title="1.安装PicGo"></a>1.安装PicGo</h3><p>Github资源:<a href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a></p>
+<p>注意：<em>mac</em> 系统选择 <em>dmg</em> 下载，<em>windwos</em> 选择 <em>.exe</em>系统，如果不是下载安装包，想看源码的话，可以选择 <code>git clone https://github.com/Molunerfinn/PicGo.git</code> 克隆到本地 ，<strong>建议别下最新版会有莫名的bug</strong></p>
+<img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/7.png"  width="300px">
+
+<h3 id="2-安装完成后，运行PicGo"><a href="#2-安装完成后，运行PicGo" class="headerlink" title="2.安装完成后，运行PicGo"></a>2.安装完成后，运行PicGo</h3><p>进行PicGo和GitHub的配置</p>
+<img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/8.png" width="300px">
+注意：仓库名是你自己的GitHub名称，分支我的默认是main,大佬默认的是master，根据你GitHub的名字；token就是之前保存下来的；指定存储路径就是GitHub里的文件夹，不填写就默认根目录；自定义域名是你最后生成的img的链接地址，配置好点击确定，设置为默认图床
+
+<h3 id="3-测试效果"><a href="#3-测试效果" class="headerlink" title="3.测试效果"></a>3.测试效果</h3><img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/11.png" width="400px">
+自行上传图片，上传成功会在右下角提示上传成功，成功后可在GitHub的img文件夹和PicGo的相册都能看见
+
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
+<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>参考链接:<br><a href="https://www.jianshu.com/p/9d91355e8418">图床工具的使用–PicGo</a>（简书）<br><a href="https://www.heson10.com/next/posts/18256.html">jsDelivr CDN加速Github仓库图片做博客图床</a>(黑石博客)</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>博客优化</tag>
       </tags>
   </entry>
 </search>
