@@ -81,7 +81,7 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">function fun()&#123;</span><br><span class="line">    echo &#39;hello world&#39;</span><br><span class="line">&#125;</span><br><span class="line">fun();</span><br></pre></td></tr></table></figure>
 
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
-<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>本文链接：<a href="http://localhost:4000/blog/2020/11/29/Markdown%E8%AF%AD%E6%B3%95/">markdown语法–创建的第一篇博客 | Daiyin’s Blog</a><br>参考链接: <a href="https://www.jianshu.com/p/191d1e21f7ed/">Markdeow基本语法</a></p>
+<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>参考链接: <a href="https://www.jianshu.com/p/191d1e21f7ed/">Markdeow基本语法</a></p>
 </blockquote>
 ]]></content>
       <categories>
@@ -106,7 +106,7 @@
 
 <p> 进入博客，点击图片<br> <img src="https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/3.png" width="300px"><br> 实现了放大艺兴哥的帅照</p>
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
-<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>本文链接：<a href="http://localhost:4000/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/">fancybox图片预览 | Daiyin’s Blog</a></p>
+<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止</p>
 </blockquote>
 ]]></content>
       <categories>
@@ -114,6 +114,30 @@
       </categories>
       <tags>
         <tag>博客优化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一个博客搭建成功</title>
+    <url>/blog/2020/10/20/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
   <entry>
@@ -145,7 +169,7 @@
 自行上传图片，上传成功会在右下角提示上传成功，成功后可在GitHub的img文件夹和PicGo的相册都能看见
 
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
-<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>本文链接：<a href="http://localhost:4000/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/">利用picgo+github搭建个人图床 | Daiyin’s Blog</a><br>参考链接:<br><a href="https://www.jianshu.com/p/9d91355e8418">图床工具的使用–PicGo</a>（简书）<br><a href="https://www.heson10.com/next/posts/18256.html">jsDelivr CDN加速Github仓库图片做博客图床</a>(黑石博客)</p>
+<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>参考链接:<br><a href="https://www.jianshu.com/p/9d91355e8418">图床工具的使用–PicGo</a>（简书）<br><a href="https://www.heson10.com/next/posts/18256.html">jsDelivr CDN加速Github仓库图片做博客图床</a>(黑石博客)</p>
 </blockquote>
 ]]></content>
       <categories>
@@ -181,38 +205,15 @@
 <p>show databases;    显示全部数据库</p>
 <p>即，实现cmd+连接MySQL数据库</p>
 <h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><blockquote>
-<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止<br>Author: Daiyin<br>本文链接：<a href="http://localhost:4000/blog/2020/12/01/%E5%85%B3%E4%BA%8Ecmd%E8%BF%9E%E6%8E%A5MySQL%E9%97%AE%E9%A2%98/">关于cmd连接MySQL问题 | Daiyin’s Blog</a></p>
+<p>博客小白，不足很多<br>如有侵权，联系必删<br>生命不息，优化不止</p>
 </blockquote>
 ]]></content>
       <categories>
         <category>博客</category>
       </categories>
       <tags>
-        <tag>日常问题</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一个博客搭建成功</title>
-    <url>/blog/2020/10/20/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>博客搭建</tag>
+        <tag>hexo</tag>
+        <tag>Next</tag>
       </tags>
   </entry>
 </search>

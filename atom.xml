@@ -6,11 +6,11 @@
   <link href="https://hdy-blue.gitee.io/blog/atom.xml" rel="self"/>
   
   <link href="https://hdy-blue.gitee.io/blog/"/>
-  <updated>2020-11-30T16:44:25.653Z</updated>
+  <updated>2020-12-01T15:45:49.409Z</updated>
   <id>https://hdy-blue.gitee.io/blog/</id>
   
   <author>
-    <name>HUANG DAIYIN</name>
+    <name>DAIYIN</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/12/01/%E5%85%B3%E4%BA%8Ecmd%E8%BF%9E%E6%8E%A5MySQL%E9%97%AE%E9%A2%98/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/12/01/%E5%85%B3%E4%BA%8Ecmd%E8%BF%9E%E6%8E%A5MySQL%E9%97%AE%E9%A2%98/</id>
     <published>2020-11-30T16:00:43.733Z</published>
-    <updated>2020-11-30T16:44:25.653Z</updated>
+    <updated>2020-12-01T15:45:49.409Z</updated>
     
     
     <summary type="html">&lt;p&gt;该篇主要用于安装MySQL后，使用CMD连接所遇问题&lt;br&gt;前提：&lt;br&gt;成功安装MySQL软件到本地计算机或其他使用集成工具箱内的MySQL(操作同理)&lt;br&gt;本篇介绍使用工具箱（phpStudy)内的MySQL，怎么用cmd进行连接&lt;/p&gt;
@@ -32,7 +32,9 @@
     <category term="博客" scheme="https://hdy-blue.gitee.io/blog/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="日常问题" scheme="https://hdy-blue.gitee.io/blog/tags/%E6%97%A5%E5%B8%B8%E9%97%AE%E9%A2%98/"/>
+    <category term="hexo" scheme="https://hdy-blue.gitee.io/blog/tags/hexo/"/>
+    
+    <category term="Next" scheme="https://hdy-blue.gitee.io/blog/tags/Next/"/>
     
   </entry>
   
@@ -41,7 +43,7 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/picgo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A/</id>
     <published>2020-11-29T08:21:36.478Z</published>
-    <updated>2020-11-30T16:45:28.906Z</updated>
+    <updated>2020-12-01T15:46:12.902Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;获取Github里的token&quot;&gt;&lt;a href=&quot;#获取Github里的token&quot; class=&quot;headerlink&quot; title=&quot;获取Github里的token&quot;&gt;&lt;/a&gt;获取Github里的token&lt;/h2&gt;&lt;h3 id=&quot;1-登录Github&quot;&gt;&lt;a href=&quot;#1-登录Github&quot; class=&quot;headerlink&quot; title=&quot;1.登录Github&quot;&gt;&lt;/a&gt;1.登录Github&lt;/h3&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/hdy-commin/pic@main/img/1.png&quot; alt=&quot;&quot; width=&quot;200px&quot;&gt;</summary>
@@ -60,7 +62,7 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/fancybox%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88/</id>
     <published>2020-11-29T07:16:30.604Z</published>
-    <updated>2020-11-30T16:47:51.455Z</updated>
+    <updated>2020-12-01T15:46:32.487Z</updated>
     
     
     <summary type="html">&lt;p&gt;优化博客小技巧&lt;/p&gt;
@@ -82,7 +84,7 @@
     <link href="https://hdy-blue.gitee.io/blog/2020/11/29/Markdown%E8%AF%AD%E6%B3%95/"/>
     <id>https://hdy-blue.gitee.io/blog/2020/11/29/Markdown%E8%AF%AD%E6%B3%95/</id>
     <published>2020-11-29T04:20:09.550Z</published>
-    <updated>2020-11-30T16:48:23.447Z</updated>
+    <updated>2020-12-01T15:47:05.252Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要是 帮助自己随时查阅（利人利己）&lt;/p&gt;
